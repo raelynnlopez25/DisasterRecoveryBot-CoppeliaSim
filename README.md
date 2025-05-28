@@ -1,2 +1,2 @@
 # DisasterRecoveryBot-CoppeliaSim
-Robot with sensors simulated in disaster recovery scenario using CoppeliaSim
+Simulated robot with sensors in disaster recovery scenario using CoppeliaSim
